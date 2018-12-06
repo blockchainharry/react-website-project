@@ -1,0 +1,8 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://student:survival@cluster0-shard-00-00-dlpof.mongodb.net:27017,cluster0-shard-00-01-dlpof.mongodb.net:27017,cluster0-shard-00-02-dlpof.mongodb.net:27017/kiip?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin",
+      "ROOT_URL": "https://kiip-staging.meteorapp.com"
+    }
+  }
+}

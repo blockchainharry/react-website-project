@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "rsi5piQ9hXJ2JpyCW",
+    "id": 0,
+    "elementClass": "guide-social",
+    "name": "Social",
+    "order": 0
+  },
+  {
+    "_id": "QnDCedNmrPwvjKR4q",
+    "id": 1,
+    "elementClass": "guide-audience",
+    "name": "Audience",
+    "order": 1
+  },
+  {
+    "_id": "GgRAFNM3kW24ZCtwS",
+    "id": 2,
+    "elementClass": "guide-animal",
+    "name": "Animal & Nature",
+    "order": 2
+  },
+  {
+    "_id": "jWaucaXNur6zt2g2x",
+    "id": 3,
+    "elementClass": "guide-seasonal",
+    "name": "Seasonal",
+    "order": 3
+  },
+  {
+    "_id": "NFuCcBRaMNnh2Ldao",
+    "id": 4,
+    "elementClass": "guide-hyper",
+    "name": "Hyper Engagement",
+    "order": 4
+  },
+  {
+    "_id": "QNZDwvB2X9wzFGxYe",
+    "id": 5,
+    "elementClass": "guide-personal",
+    "name": "Personal Growth & Wellness",
+    "order": 5
+  },
+  {
+    "_id": "3PraPySdC7RkXdC4p",
+    "id": 6,
+    "elementClass": "guide-special",
+    "name": "Of Special Significance",
+    "order": 6
+  },
+  {
+    "_id": "QJQTrNftPEd5HbW6v",
+    "id": 7,
+    "elementClass": "guide-games",
+    "name": "Games, Sports & Entertainment",
+    "order": 7
+  },
+  {
+    "_id": "GuYFG7KQNfRn2WYM2",
+    "id": 8,
+    "elementClass": "guide-everyday",
+    "name": "Everyday",
+    "order": 8
+  }
+]
